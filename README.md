@@ -2,7 +2,8 @@
 
 
 **Yuedong Tan(谭跃东)** is currently pursuing a Master's degree at Xidian University. I earned my Bachelor of Science degree from the School of Communication Engineering at Chang'an University. I also worked as a research intern at the University of Würzburg from 3.2024-Now. 
-
+ - Email : tydsuper@gmail.com
+ - google scholar: [Link](https://scholar.google.com/citations?user=p7fOQkUAAAAJ&hl=en)
 
 <!-- - 🌱 I’m currently learning large language model -->
 <!-- - 👯 I’m looking to collaborate on ... -->
