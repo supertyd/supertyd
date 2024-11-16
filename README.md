@@ -28,7 +28,8 @@ Feel free to contact me to discuss any issues. 😄😄😄
 09.2018 – 06.2022  
 
 
-## PUBLICATIONS
+## PUBLICATIONS   
+\* for Corresponding Author
 
 - **Yuedong Tan**, Zongwei Wu\*, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Dani Paudel, Luc Van Gool, Radu Timofte. *Towards a Generalist and Blind RGB-X Tracker* (Preprint, under review) [Paper Link](https://arxiv.org/html/2405.17773v1)
   - Pioneered the integration of Mixture of Experts models into multi-modal object tracking.
