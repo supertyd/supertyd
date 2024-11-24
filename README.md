@@ -5,7 +5,7 @@
  - Email : tydsuper@gmail.com
  - Google scholar: [Link](https://scholar.google.com/citations?user=p7fOQkUAAAAJ&hl=en)
 
-Feel free to contact me to discuss any issues. 😄😄😄
+Feel free to contact me to discuss any issues. 💬💬💬
 
 <!-- - 🌱 I’m currently learning large language model -->
 <!-- - 👯 I’m looking to collaborate on ... -->
