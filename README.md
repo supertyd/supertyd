@@ -32,19 +32,16 @@ Feel free to contact me to discuss any issues. 💬💬💬
 \* for Corresponding Author
 
 - **Yuedong Tan**, Zongwei Wu\*, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Dani Paudel, Luc Van Gool, Radu Timofte. *Towards a Generalist and Blind RGB-X Tracker* (Preprint, under review) [Paper Link](https://arxiv.org/html/2405.17773v1)
-  - Pioneered the integration of Mixture of Experts models into multi-modal object tracking.
-  - Achieved a groundbreaking unified architecture and parameter model, establishing a **foundational framework** for tracking across various modalities.
+
 
 - Wenfang Sun\*, **Yuedong Tan**, Jingyuan Li, Shuwei Hou, Yingzhao Shao, Zhe Wang, Beibei Song. *HotMoE: Exploring Sparse Mixture of Experts for Hyperspectral Object Tracking* (Published in *IEEE Transactions on Multimedia*)
-  - Designed an object tracking network using Mixture of Experts to handle complex scenes with specialized processing.
-  - Demonstrated **superior speed and accuracy** across multiple datasets.
+
 
 - **Yuedong Tan**, Wenfang Sun\*, Jingyuan Li, Shuwei Hou, Xiaobo Li, Zhe Wang, Beibei Song. *HyperTrack: A Unified Framework for Hyperspectral Object Tracking* (Major revision by *IEEE Transactions on Circuits and Systems for Video Technology*)
-  - Utilized **channel selection** based on hyperspectral characteristics for efficient channel dimensionality reduction.
-  - Developed a robust object tracking model that integrates three distinct types of hyperspectral data.
+
 
 - **Yuedong Tan**,Wenfang Sun\* , Jieran Yuan, Wenwang Du, Zhe Wang, Nan Mao, Beibei Song. *HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention* (Published in *IEEE Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing*)
-  - **Enhanced feature interaction** through the application of hybrid attention mechanisms.
+
 
 ## COMPETITION EXPERIENCE
 
