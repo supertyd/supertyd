@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Yuedong Tan(谭跃东)** is currently pursuing a Master's degree at Xidian University. I earned my Bachelor of Science degree from the School of Communication Engineering at Chang'an University. I also worked as a research intern at the University of Würzburg from 3.2024-Now. 
+**Yuedong Tan(谭跃东)** is an Ph.D. student at INSAIT/University of Würzburg, under the supervision of Danda Pani Paudel, Radu Timfote, and Luc Van Gool. Previously, I obtained my master’s degree from Xidian University in June 2025. Before that, I received my B.E. degree from Chang’an University, China, in July 2022. I was an intern or visiting student at Tele AI, supervised by Jiawei Shao and Xuelong Li.
  - Email : tydsuper@gmail.com
  - Google scholar: [Link](https://scholar.google.com/citations?user=p7fOQkUAAAAJ&hl=en)
 
@@ -18,6 +18,11 @@ Feel free to contact me to discuss any issues. 💬💬💬
 
 ## EDUCATION
 
+**INSAIT**, Sofia<br>
+*Advisors: Prof. Danda Pani Paudel, Prof. Luc Van Gool*<br>
+08.2025 – NOW
+
+
 **Xidian University**, Xi’an, China  
 *Master of Science: Electronics Engineering*  
 09.2022 – 06.2025 (expected)  
@@ -31,13 +36,15 @@ Feel free to contact me to discuss any issues. 💬💬💬
 ## PUBLICATIONS   
 \* for Corresponding Author
 
-- **Yuedong Tan**, Zongwei Wu\*, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Dani Paudel, Luc Van Gool, Radu Timofte. *Towards a Generalist and Blind RGB-X Tracker* (Preprint, under review) [Paper Link](https://arxiv.org/html/2405.17773v1)
+- **Yuedong Tan**, Jiawei Shao\*, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu\*. What You Have is What You Track: Adaptive and Robust Multimodal Tracking(ICCV2025)[Paper Link](https://arxiv.org/pdf/2507.05899v1)
+
+- **Yuedong Tan**, Zongwei Wu\*, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Dani Paudel, Luc Van Gool, Radu Timofte. *Towards a Generalist and Blind RGB-X Tracker* (ICCV2025) [Paper Link](https://arxiv.org/html/2405.17773v1)
 
 
 - Wenfang Sun\*, **Yuedong Tan**, Jingyuan Li, Shuwei Hou, Yingzhao Shao, Zhe Wang, Beibei Song. *HotMoE: Exploring Sparse Mixture of Experts for Hyperspectral Object Tracking* (Published in *IEEE Transactions on Multimedia*)
 
 
-- **Yuedong Tan**, Wenfang Sun\*, Jingyuan Li, Shuwei Hou, Xiaobo Li, Zhe Wang, Beibei Song. *HyperTrack: A Unified Framework for Hyperspectral Object Tracking* (Major revision by *IEEE Transactions on Circuits and Systems for Video Technology*)
+- **Yuedong Tan**, Wenfang Sun\*, Jingyuan Li, Shuwei Hou, Xiaobo Li, Zhe Wang, Beibei Song. *HyperTrack: A Unified Framework for Hyperspectral Object Tracking* (Published in *IEEE Transactions on Circuits and Systems for Video Technology*)
 
 
 - **Yuedong Tan**,Wenfang Sun\* , Jieran Yuan, Wenwang Du, Zhe Wang, Nan Mao, Beibei Song. *HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention* (Published in *IEEE Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing*)
