@@ -5,9 +5,12 @@
 - Google Scholar: [Link](https://scholar.google.com/citations?user=p7fOQkUAAAAJ&hl=en)
 
 Feel free to contact me to discuss any issues. 💬💬💬
+> "Man is a Tool-using Animal; without tools he is nothing, with tools he is all." 
+> -- Thomas Carlyle
+
 
 ## 📣 NEWS
-- **🔴 [Oct. 2025]** I am grateful to announce that our project has received a generous GPU grant from **TeleAI**. Huge thanks for their support! [Link](https://mp.weixin.qq.com/s/u3X_NV_791bwo42VaFkWgw?scene=1&click_id=4)
+- **🔴 [Oct. 2025]** I am thrilled to announce that our project has been selected for a generous GPU grant from TeleAI. We are incredibly grateful for their support, as only 10 projects were chosen for this award. [Link](https://mp.weixin.qq.com/s/u3X_NV_791bwo42VaFkWgw?scene=1&click_id=4)
 
 ## 🎓 EDUCATION
 
