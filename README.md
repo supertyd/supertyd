@@ -6,6 +6,9 @@
  - Google scholar: [Link](https://scholar.google.com/citations?user=p7fOQkUAAAAJ&hl=en)
 
 Feel free to contact me to discuss any issues. 💬💬💬
+## 📣 NEWS
+- **[Oct. 2025]** I am grateful to announce that our project has received a generous GPU grant from **TeleAI**. Huge thanks for their support! [Link](https://mp.weixin.qq.com/s/u3X_NV_791bwo42VaFkWgw?scene=1&click_id=4)
+
 
 <!-- - 🌱 I’m currently learning large language model -->
 <!-- - 👯 I’m looking to collaborate on ... -->
