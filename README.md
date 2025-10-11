@@ -8,6 +8,13 @@ Feel free to contact me to discuss any issues. 💬💬💬
 > "Man is a Tool-using Animal; without tools he is nothing, with tools he is all." 
 > -- Thomas Carlyle
 
+## Primary Focus Areas
+- **Multimodal Large Language Models (MLLM)** - Advancing vision-language understanding and reasoning
+- **Tool-Use Agents** - Creating intelligent systems that can effectively utilize external tools and APIs
+
+
+> My ultimate goal is to develop autonomous agents capable of leveraging diverse tools to independently explore and understand the world, bridging the gap between AI systems and real-world interaction.
+
 
 ## 📣 NEWS
 - **🔴 [Oct. 2025]** I am thrilled to announce that our project has been selected for a generous GPU grant from TeleAI. We are incredibly grateful for their support, as only 10 projects were chosen for this award. [Link](https://mp.weixin.qq.com/s/u3X_NV_791bwo42VaFkWgw?scene=1&click_id=4)
