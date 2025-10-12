@@ -36,15 +36,15 @@ Feel free to contact me to discuss any issues. 💬💬💬
 ## 📚 PUBLICATIONS  
 \* for Corresponding Author,  † Equal contribution.
 
-- **Yuedong Tan**, Jiawei Shao\*, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu\*. What You Have is What You Track: Adaptive and Robust Multimodal Tracking (ICCV2025) [Paper Link](https://arxiv.org/pdf/2507.05899v1)
+- **Yuedong Tan**, Jiawei Shao\*, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu\*. What You Have is What You Track: Adaptive and Robust Multimodal Tracking (*ICCV2025*) [Paper Link](https://arxiv.org/pdf/2507.05899v1)
 
-- **Yuedong Tan**, Zongwei Wu\*, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Dani Paudel, Luc Van Gool, Radu Timofte. *Towards a Generalist and Blind RGB-X Tracker* (ICCV2025) [Paper Link](https://arxiv.org/html/2405.17773v1)
+- **Yuedong Tan**, Zongwei Wu\*, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Dani Paudel, Luc Van Gool, Radu Timofte. *Towards a Generalist and Blind RGB-X Tracker* (*ICCV2025*) [Paper Link](https://arxiv.org/html/2405.17773v1)
 
-- Wenfang Sun†\*, **Yuedong Tan**†, Jingyuan Li, Shuwei Hou, Yingzhao Shao, Zhe Wang, Beibei Song. *HotMoE: Exploring Sparse Mixture of Experts for Hyperspectral Object Tracking* (Published in *IEEE Transactions on Multimedia*)  
+- Wenfang Sun†\*, **Yuedong Tan**†, Jingyuan Li, Shuwei Hou, Yingzhao Shao, Zhe Wang, Beibei Song. *HotMoE: Exploring Sparse Mixture of Experts for Hyperspectral Object Tracking* (*IEEE Transactions on Multimedia*)  
 
-- **Yuedong Tan**, Wenfang Sun\*, Jingyuan Li, Shuwei Hou, Xiaobo Li, Zhe Wang, Beibei Song. *HyperTrack: A Unified Framework for Hyperspectral Object Tracking* (Published in *IEEE Transactions on Circuits and Systems for Video Technology*)
+- **Yuedong Tan**, Wenfang Sun\*, Jingyuan Li, Shuwei Hou, Xiaobo Li, Zhe Wang, Beibei Song. *HyperTrack: A Unified Framework for Hyperspectral Object Tracking* (*IEEE Transactions on Circuits and Systems for Video Technology*)
 
-- **Yuedong Tan**, Wenfang Sun\*, Jieran Yuan, Wenwang Du, Zhe Wang, Nan Mao, Beibei Song. *HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention* (Published in *IEEE Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing*)
+- **Yuedong Tan**, Wenfang Sun\*, Jieran Yuan, Wenwang Du, Zhe Wang, Nan Mao, Beibei Song. *HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention* (*IEEE Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing*)
 
 ## 🏆 COMPETITION EXPERIENCE
 
