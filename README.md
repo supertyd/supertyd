@@ -19,19 +19,6 @@ Feel free to contact me to discuss any issues. 💬💬💬
 ## 📣 NEWS
 - **🔴 [Oct. 2025]** I am thrilled to announce that our project has been selected for a generous GPU grant from TeleAI. We are incredibly grateful for their support, as only 10 projects were chosen for this award. [Link](https://mp.weixin.qq.com/s/u3X_NV_791bwo42VaFkWgw?scene=1&click_id=4)
 
-## 🎓 EDUCATION
-
-**INSAIT**, Sofia  
-*Advisors: Prof. Danda Pani Paudel, Prof. Luc Van Gool*  
-08.2025 – NOW
-
-**Xidian University**, Xi’an, China  
-*Master of Science: Electronics Engineering*  
-09.2022 – 06.2025 (expected)
-
-**Chang'an University**, Xi'an, China  
-*Bachelor of Science: Electronics Engineering*  
-09.2018 – 06.2022
 
 ## 📚 PUBLICATIONS  
 \* for Corresponding Author,  † Equal contribution.
