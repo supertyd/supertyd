@@ -27,11 +27,13 @@ Feel free to contact me to discuss any issues. 💬💬💬
 
 - **Yuedong Tan**, Zongwei Wu\*, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Dani Paudel, Luc Van Gool, Radu Timofte. *Towards a Generalist and Blind RGB-X Tracker* (*ICCV2025*) [Paper Link](https://arxiv.org/html/2405.17773v1)
 
-- Wenfang Sun†\*, **Yuedong Tan**†, Jingyuan Li, Shuwei Hou, Yingzhao Shao, Zhe Wang, Beibei Song. *HotMoE: Exploring Sparse Mixture of Experts for Hyperspectral Object Tracking* (*IEEE Transactions on Multimedia*)  
-
 - **Yuedong Tan**, Wenfang Sun\*, Jingyuan Li, Shuwei Hou, Xiaobo Li, Zhe Wang, Beibei Song. *HyperTrack: A Unified Framework for Hyperspectral Object Tracking* (*IEEE Transactions on Circuits and Systems for Video Technology*)
 
 - **Yuedong Tan**, Wenfang Sun\*, Jieran Yuan, Wenwang Du, Zhe Wang, Nan Mao, Beibei Song. *HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention* (*IEEE Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing*)
+
+- Wenfang Sun†\*, **Yuedong Tan**†, Jingyuan Li, Shuwei Hou, Yingzhao Shao, Zhe Wang, Beibei Song. *HotMoE: Exploring Sparse Mixture of Experts for Hyperspectral Object Tracking* (*IEEE Transactions on Multimedia*)  
+
+
 
 ## 🏆 COMPETITION EXPERIENCE
 
