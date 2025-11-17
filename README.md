@@ -22,6 +22,7 @@ Feel free to contact me to discuss any issues. 💬💬💬
 
 ## 📚 PUBLICATIONS  
 \* for Corresponding Author,  † Equal contribution.
+- **Yuedong Tan**, Jiancheng Pan, Yuqian Fu, Luc Van Gool, Radu Timofte, Danda Pani Paudel, Zongwei Wu* SegThinker: Recurrent Vision with Reasoning for Image Segmentation (Under Review)  
 
 - **Yuedong Tan**, Jiawei Shao\*, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu\*. What You Have is What You Track: Adaptive and Robust Multimodal Tracking (*ICCV2025*) [Paper Link](https://arxiv.org/pdf/2507.05899v1)
 
