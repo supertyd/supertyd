@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-**Yuedong Tan(谭跃东)** is a researcher at INSAIT/University of Würzburg, under the supervision of Danda Pani Paudel, Radu Timofte, and Luc Van Gool. Previously, I obtained my master’s degree from Xidian University in June 2025. Before that, I received my B.E. degree from Chang’an University, China, in July 2022. I was an intern or visiting student at Tele AI, supervised by Jiawei Shao and Xuelong Li.  
+**Yuedong Tan(谭跃东)** is a student researcher at INSAIT/University of Würzburg, under the supervision of Danda Pani Paudel, Radu Timofte, and Luc Van Gool. Previously, I obtained my master’s degree from Xidian University in June 2025. Before that, I received my B.E. degree from Chang’an University, China, in July 2022. I was an intern or visiting student at Tele AI, supervised by Jiawei Shao and Xuelong Li.  
 - Email: tydsuper@gmail.com  
 - Google Scholar: [Link](https://scholar.google.com/citations?user=p7fOQkUAAAAJ&hl=en)
 
