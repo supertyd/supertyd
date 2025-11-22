@@ -32,7 +32,7 @@ Feel free to contact me to discuss any issues. 💬💬💬
 
 - **Yuedong Tan**, Wenfang Sun\*, Jieran Yuan, Wenwang Du, Zhe Wang, Nan Mao, Beibei Song. *HHTrack: Hyperspectral Object Tracking Based on Hybrid Attention* (*IEEE Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing*)
 
-- Wenfang Sun†\*, **Yuedong Tan**†, Jingyuan Li, Shuwei Hou, Yingzhao Shao, Zhe Wang, Beibei Song. *HotMoE: Exploring Sparse Mixture of Experts for Hyperspectral Object Tracking* (*IEEE Transactions on Multimedia*)  
+- **Wenfang Sun**†\*, **Yuedong Tan**†, Jingyuan Li, Shuwei Hou, Yingzhao Shao, Zhe Wang, Beibei Song. *HotMoE: Exploring Sparse Mixture of Experts for Hyperspectral Object Tracking* (*IEEE Transactions on Multimedia*)  
 
 
 
