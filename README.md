@@ -26,7 +26,7 @@ Feel free to contact me to discuss any issues. 💬💬💬
 
 - **Yuedong Tan**, Jiawei Shao\*, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu\*. What You Have is What You Track: Adaptive and Robust Multimodal Tracking (*ICCV2025*) [Paper Link](https://arxiv.org/pdf/2507.05899v1)
 
-- **Yuedong Tan**, Zongwei Wu\*, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Dani Paudel, Luc Van Gool, Radu Timofte. *Towards a Generalist and Blind RGB-X Tracker* (*ICCV2025*) [Paper Link](https://arxiv.org/html/2405.17773v1)
+- **Yuedong Tan**, Zongwei Wu\*, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Dani Paudel, Luc Van Gool, Radu Timofte. *XTrack: Multimodal Training Boosts RGB-X Video Object Trackers (*ICCV2025*) [Paper Link](https://arxiv.org/pdf/2405.17773)
 
 - **Yuedong Tan**, Wenfang Sun\*, Jingyuan Li, Shuwei Hou, Xiaobo Li, Zhe Wang, Beibei Song. *HyperTrack: A Unified Framework for Hyperspectral Object Tracking* (*IEEE Transactions on Circuits and Systems for Video Technology*)
 
