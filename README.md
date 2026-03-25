@@ -25,6 +25,8 @@ Feel free to contact me to discuss any issues. 💬💬💬
 \* for Corresponding Author,  † Equal contribution.
 - **Yuedong Tan**, Jiancheng Pan, Yuqian Fu, Luc Van Gool, Radu Timofte, Danda Pani Paudel, Zongwei Wu* SegThinker: Recurrent Vision with Reasoning for Image Segmentation (Under Review)  
 
+- Ruanjun Li, **Yuedong Tan**, Yuanming Shi, Jiawei Shao Videoscan: Enabling Efficient Streaming Video Understanding via Frame-level Semantic Carriers (Under Review)
+
 - **Yuedong Tan**, Jiawei Shao\*, Jiawei Shao, Eduard Zamfir, Ruanjun Li, Zhaochong An, Chao Ma, Danda Pani Paudel, Luc Van Gool, Radu Timofte, Zongwei Wu\*. What You Have is What You Track: Adaptive and Robust Multimodal Tracking (*ICCV2025*) [Paper Link](https://arxiv.org/pdf/2507.05899v1)
 
 - **Yuedong Tan**, Zongwei Wu\*, Yuqian Fu, Zhuyun Zhou, Guolei Sun, Chao Ma, Danda Dani Paudel, Luc Van Gool, Radu Timofte. *XTrack: Multimodal Training Boosts RGB-X Video Object Trackers (*ICCV2025*) [Paper Link](https://arxiv.org/pdf/2405.17773)
