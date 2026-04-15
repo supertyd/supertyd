@@ -17,7 +17,8 @@ Feel free to contact me to discuss any issues. 💬💬💬
 
 
 ## 📣 NEWS
-- **🔴 [Fab. 2026]** We are organizing the CVPR 2026 Workshop on Unified Robotic Vision with Cross-Modal Sensing and Alignment. [Link](https://urvis-workshop.github.io/)
+- **🔴 [Mar. 2026]** I am excited to share that I have started my internship at Apple! 
+- **🔴 [Feb. 2026]** We are organizing the CVPR 2026 Workshop on Unified Robotic Vision with Cross-Modal Sensing and Alignment. [Link](https://urvis-workshop.github.io/)
 - **🔴 [Oct. 2025]** I am thrilled to announce that our project has been selected for a generous GPU grant from TeleAI. We are incredibly grateful for their support, as only 10 projects were chosen for this award. [Link](https://mp.weixin.qq.com/s/u3X_NV_791bwo42VaFkWgw?scene=1&click_id=4)
 
 
