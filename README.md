@@ -38,17 +38,3 @@ Feel free to contact me to discuss any issues. 💬💬💬
 
 - **Wenfang Sun**†\*, **Yuedong Tan**†, Jingyuan Li, Shuwei Hou, Yingzhao Shao, Zhe Wang, Beibei Song. *HotMoE: Exploring Sparse Mixture of Experts for Hyperspectral Object Tracking* (*IEEE Transactions on Multimedia*)  
 
-
-
-## 🏆 COMPETITION EXPERIENCE
-
-- **Hyperspectral Object Tracking Challenge 2023**  
-  - Responsible for data processing and the implementation of algorithms.  
-  - Iterated the algorithm more than **20 times** over the course of a month.  
-  - Secured 5th place in the competition.
-
-## 💻 TECHNICAL SKILLS
-
-- **Programming Languages:** Python, Verilog, C++/C, LaTeX  
-- **Scientific Toolkits:** PyTorch, TensorFlow  
-- **Software:** Matlab, Vivado
