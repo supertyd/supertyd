@@ -24,6 +24,9 @@ Feel free to contact me to discuss any issues. 💬💬💬
 
 ## 📚 PUBLICATIONS  
 \* for Corresponding Author,  † Equal contribution.
+- **Yuedong Tan†**, **Lei Qi†**, Yu Liu, Di Wen, Ruiping Liu, Xiaoye Wang, Yufan Chen, Junwei Zheng, Chengzhi Wu, Chen Zhang, Zhihang Chen, Haiwen Sun, Zongwei Wu, Radu Timofte, Danda Pani Paudel, Kunyu Peng. Does Local Video Understanding Transfer Across Encounters? The EgoGears Benchmark (*arXiv 2026*) [Paper Link](https://arxiv.org/abs/2609.37938)
+
+
 - **Yuedong Tan**, Jiancheng Pan, Yuqian Fu, Luc Van Gool, Radu Timofte, Danda Pani Paudel, Zongwei Wu* SegThinker: Recurrent Vision with Reasoning for Image Segmentation (Under Review)  
 
 - Ruanjun Li, **Yuedong Tan**, Yuanming Shi, Jiawei Shao Videoscan: Enabling Efficient Streaming Video Understanding via Frame-level Semantic Carriers (Under Review)
