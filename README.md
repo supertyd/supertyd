@@ -24,7 +24,7 @@ Feel free to contact me to discuss any issues. 💬💬💬
 
 ## 📚 PUBLICATIONS  
 
-- **Yu Liu**, Youxing Li, **Yuedong Tan**, Zhiwei Yang, Zihan Su, Hanqi Feng, Shaojie Zhang, Libin Liao, Zihao Wan, Chenxu Wu, Cong Cao, Fangfang Yuan, Yanbing Liu, Ziheng Chen, Pei Fu, Radu Timofte, Zongwei Wu, Nicu Sebe, Barnabas Poczos, Jian Luan. **A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement.**
+- **Yu Liu†**, Youxing Li†, **Yuedong Tan†**, Zhiwei Yang, Zihan Su, Hanqi Feng, Shaojie Zhang, Libin Liao, Zihao Wan, Chenxu Wu, Cong Cao, Fangfang Yuan, Yanbing Liu, Ziheng Chen, Pei Fu, Radu Timofte, Zongwei Wu, Nicu Sebe, Barnabas Poczos, Jian Luan. **A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement.**
 \* for Corresponding Author,  † Equal contribution.
 - **Yuedong Tan†**, **Lei Qi†**, Yu Liu, Di Wen, Ruiping Liu, Xiaoye Wang, Yufan Chen, Junwei Zheng, Chengzhi Wu, Chen Zhang, Zhihang Chen, Haiwen Sun, Zongwei Wu, Radu Timofte, Danda Pani Paudel, Kunyu Peng. Does Local Video Understanding Transfer Across Encounters? The EgoGears Benchmark (*arXiv 2026*) [Paper Link](https://arxiv.org/abs/2609.37938)
 
